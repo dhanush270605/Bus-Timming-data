@@ -1,0 +1,14 @@
+type,operator,from ,to,arrivalTime,departureTime,duration
+EXP,TNSTC,Kalavai,Kanchipuram,5:30,5:35,1H 5M
+PVT,Karthikeyan,Kalavai,Kanchipuram,6:00,6:10,1H 10M
+EXP,TNSTC,Kalavai,Kanchipuram,6:10,6:25,1H 5M
+EXP,TNSTC,Kalavai,Kanchipuram,6:45,7:00,1H 5M
+PVT,Aruna,Kalavai,Kanchipuram,8:30,8:45,1H 10M
+PVT,Thanapal,Kalavai,Kanchipuram,9:45,10:00,1H 10M
+EXP,TNSTC,Kalavai,Kanchipuram,11:20,11:35,1H 5M
+PVT,Karthikeyan,Kalavai,Kanchipuram,12:00,12:15,1H 10M
+PVT,Aruna,Kalavai,Kanchipuram,14:15,14:30,1H 10M
+EXP,TNSTC,Kalavai,Kanchipuram,17:20,17:35,1H 5M
+PVT,Karthikeyan,Kalavai,Kanchipuram,18:00,18:15,1H 10M
+EXP,TNSTC,Kalavai,Kanchipuram,19:15,19:30,1H 5M
+PVT,Aruna,Kalavai,Kanchipuram,20:00,20:15,1H 10M
