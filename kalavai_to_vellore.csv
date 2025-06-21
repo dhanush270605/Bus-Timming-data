@@ -1,0 +1,19 @@
+type,operator,from ,to,arrivalTime,departureTime,duration
+PVT,Janatha,Kalavai,Vellore,5:00,5:10,55M
+PVT,Shivaji,Kalavai,Vellore,5:20,5:30,55M
+PVT,S.K.Raman,Kalavai,Vellore,7:00,7:10,55M
+PVT,Eswari,Kalavai,Vellore,7:45,8:00,55M
+PVT,Janatha,Kalavai,Vellore,8:45,9:00,55M
+PVT,Nshakthi,Kalavai,Vellore,9:00,9:10,55M
+PVT,Shivaji,Kalavai,Vellore,11:15,11:30,55M
+PVT,S.K.Raman,Kalavai,Vellore,11:45,11:55,55M
+PVT,Janatha,Kalavai,Vellore,12:00,12:10,55M
+PVT,Eswari,Kalavai,Vellore,12:15,12:30,55M
+TNSTC,444,Kalavai,Vellore,14:00,14:10,1H
+PVT,Janatha,Kalavai,Vellore,15:00,15:10,55M
+PVT,Eswari,Kalavai,Vellore,15:45,15:55,55M
+PVT,S.K.Raman,Kalavai,Vellore,16:00,16:10,55M
+PVT,Shivaji,Kalavai,Vellore,17:00,17:10,55M
+PVT,Janatha,Kalavai,Vellore,18:00,18:10,55M
+PVT,Nshakthi,Kalavai,Vellore,18:20,18:30,55M
+PVT,Eswari,Kalavai,Vellore,19:20,19:30,55M
