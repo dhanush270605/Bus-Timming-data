@@ -1,0 +1,26 @@
+type,operator,from ,to,arrivalTime,departureTime,duration
+ORD,3,Kalavai,Arni,4:30,4:40,40M
+PVT,Dhanapal,Kalavai,Arni,5:30,5:40,35M
+PVT,Aruna,Kalavai,Arni,6:15,6:20,35M
+ORD,26,Kalavai,Arni,6:20,6:30,40M
+ORD,9,Kalavai,Arni,6:30,6:40,40M
+PVT,Karthikeyan,Kalavai,Arni,9:00,9:10,35M
+ORD,3,Kalavai,Arni,9:05,9:15,40M
+ORD,135,Kalavai,Arni,9:15,9:25,40M
+ORD,137,Kalavai,Arni,9:45,9:55,40M
+ORD,9,Kalavai,Arni,11:30,11:40,40M
+PVT,Aruna,Kalavai,Arni,11:45,11:55,35M
+PVT,Dhanapal,Kalavai,Arni,12:40,12:50,35M
+ORD,3,Kalavai,Arni,14:00,14:10,40M
+ORD,135,Kalavai,Arni,14:45,14:55,40M
+PVT,Karthikeyan,Kalavai,Arni,15:15,15:25,35M
+ORD,137,Kalavai,Arni,16:15,16:25,40M
+ORD,9,Kalavai,Arni,16:30,16:40,40M
+ORD,3,Kalavai,Arni,17:00,17:10,40M
+PVT,Aruna,Kalavai,Arni,17:15,17:25,35M
+ORD,26,Kalavai,Arni,18:15,18:30,40M
+ORD,9,Kalavai,Arni,19:15,19:30,40M
+ORD,135,Kalavai,Arni,20:45,21:00,40M
+PVT,Karthikeyan,Kalavai,Arni,21:00,21:05,35M
+ORD,136,Kalavai,Arni,21:30,21:45,40M
+ORD,137,Kalavai,Arni,22:15,22:30,40M
