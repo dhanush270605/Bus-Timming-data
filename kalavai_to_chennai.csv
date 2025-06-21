@@ -1,0 +1,7 @@
+s.no,type,operator,from,to,arrivalTime,departureTime,duration
+1.0,EXP,TNSTC,Kalavai,Chennai,4:30,4:45,2H 40M
+2.0,EXP,TNSTC,Kalavai,Chennai,5:00,5:15,2H 40M
+3.0,EXP,TNSTC,Kalavai,Chennai,8:00,8:15,2H 40M
+4.0,EXP,TNSTC,Kalavai,Chennai,13:45,14:00,2H 40M
+5.0,EXP,TNSTC,Kalavai,Chennai,16:00,16:15,2H 40M
+6.0,EXP,TNSTC,Kalavai,Chennai,16:30,16:45,2H 40M
